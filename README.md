@@ -1,4 +1,4 @@
-# Music--Popularity-Prediction-Model
+# Music Popularity Prediction Model
 
 Proje: Müzik Veri Seti ile Popülerlik Tahmini
 
