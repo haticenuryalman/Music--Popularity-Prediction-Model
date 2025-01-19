@@ -126,7 +126,7 @@ Bu çalışma, müzik veri seti üzerinden popülerlik tahmininde, Random Forest
 
 Eğer kaynak ve zaman kısıtlamaları ön planda ise Random Forest Reduced Trees modeli tercih edilmelidir. Daha geniş bir analiz yapılacaksa, daha fazla ağaç sayısı ve tam veri seti kullanılarak modeli geliştirmek mümkün olacaktır.
 
-YouTube Linki: https://youtu.be/CQ7ARr8TfX4
+YouTube Linki: 
 
 Bu projede, müzik veri seti kullanılarak popülerlik tahmini için yapılan adımları, kullanılan modelleri ve analizleri detaylıca ele aldık. Veri ön işleme, model karşılaştırmaları ve sonuçlar hakkında bilgi almak için videomuzu izleyebilirsiniz.
 
